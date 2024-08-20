@@ -1,0 +1,35 @@
+Name of variable,Description and units
+date,date of sampling MM/DD/YYYY
+year ,year of sampling YYYY
+site,name of samplig site
+Lat,latitude
+Lon,longitude
+P_miniata,Patiria miniata total abundance in transect
+P_brevispinus,Pisaster brevispinus total abundance in transect
+P_ochraceus,Pisaster ochraceus total abundance in transect
+H_rufescens,Haliotis rufescens total abundance in transect
+M_franciscanus,Mesocentrotus franciscanus total abundance in transect
+S_purpuratus,Strongylocentrotus purpuratus  total abundance in transect
+N_luetkeana_juv,Nereocystis luetkeana juveniles total abundance in transect
+N_luetkeana_adult,Nereocystis luetkeana adults total abundance in transect
+S_osmundacea,Stephanocystis osmundacea total abundance in transect
+P_californica,Pterygophora californica total abundance in transect
+E_menziesii,Egregia menziesii total abundance in transect
+L_farlowii,Laminaria farlowii total abundance in transect
+L_setchelli,Laminaria setchellii total abundance in transect
+A_marginata,Alaria marginata total abundance in transect
+C_costata,Costaria costata total abundance in transect
+D_californicum,Dictyoneurum californicum total abundance in transect
+Desmerestia,Desmarestia spp. total abundance in transect
+perc_sand,proportion of sand in transect (%)
+mean_relief,index of mean relief
+perc_rock,proportion of rock in transect (%)
+total_discharge_cms,mean annual flow rate (cubic meter per second)
+distance_to_freshwater_m,distance to nearest freshwater source (m)
+kelp_persistence_years_100m,year of kelp persistence in a 100m radius
+kelp_persistence_years_100m_5.,"year of kelp persistence in a 100m radius, not considering abundance below 5%"
+kelp_cover_100,kelp cover in a 100m radius
+kelp_persistence_years_500m,year of kelp persistence in a 500m radius
+kelp_persistence_years_500m_5.,"year of kelp persistence in a 500m radius, not considering abundance below 5%"
+kelp_cover_500,kelp cover in a 500m radius
+N_luetkeana,Nereocystis luetkeana total abundance

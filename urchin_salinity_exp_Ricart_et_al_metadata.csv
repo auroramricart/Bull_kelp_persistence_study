@@ -1,0 +1,10 @@
+Name of variable,Description and units
+Urchin_no,Sea urchin ID
+Salinity,Salinity treatment (psu)
+urchin_mass,Fresh weight of sea urchin (g)
+alive,if sea urchin has been alive along all the experiment duration
+stipe1_g,Final fresh weight of stipe 1 (g)
+stipe2_g,Final fresh weight of stipe 2 (g)
+sum_stipes,Final total stipe biomass (g)
+total_kelp_consumed_g,Biomass of stipes consumed by the sea urchin (g) not corrected with the controls
+kelp_consumed_g,Biomass of stipes consumed by the sea urchin (g) corrected with the controls
